@@ -8,3 +8,5 @@ sentence-transformers
 huggingface-hub
 pypdf
 python-dotenv
+torch
+torchvision
