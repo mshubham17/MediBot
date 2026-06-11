@@ -1,6 +1,6 @@
 streamlit
 langchain==0.2.17
-langchain-community
+langchain-community==0.2.19
 langchain-huggingface
 langchain-groq
 faiss-cpu
